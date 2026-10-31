@@ -1,0 +1,214 @@
+{
+  "0": {
+    "startTime": "7.73",
+    "endTime": "8.97",
+    "label": "surprise"
+  },
+  "1": {
+    "startTime": "12.29",
+    "endTime": "13.61",
+    "label": "disgust"
+  },
+  "2": {
+    "startTime": "32.81",
+    "endTime": "33.25",
+    "label": "anger"
+  },
+  "3": {
+    "startTime": "304.13",
+    "endTime": "307.05",
+    "label": "happiness"
+  },
+  "4": {
+    "startTime": "316.31",
+    "endTime": "326.20",
+    "label": "happiness"
+  },
+  "5": {
+    "startTime": "333.25",
+    "endTime": "334.69",
+    "label": "sadness"
+  },
+  "6": {
+    "startTime": "371.59",
+    "endTime": "373.11",
+    "label": "disgust"
+  },
+  "7": {
+    "startTime": "373.19",
+    "endTime": "374.39",
+    "label": "disgust"
+  },
+  "8": {
+    "startTime": "376.29",
+    "endTime": "376.69",
+    "label": "disgust"
+  },
+  "9": {
+    "startTime": "380.78",
+    "endTime": "381.74",
+    "label": "happiness"
+  },
+  "10": {
+    "startTime": "388.68",
+    "endTime": "389.28",
+    "label": "happiness"
+  },
+  "11": {
+    "startTime": "390.80",
+    "endTime": "391.48",
+    "label": "happiness"
+  },
+  "12": {
+    "startTime": "423.39",
+    "endTime": "424.51",
+    "label": "anger"
+  },
+  "13": {
+    "startTime": "435.28",
+    "endTime": "436.92",
+    "label": "disgust"
+  },
+  "14": {
+    "startTime": "436.94",
+    "endTime": "439.58",
+    "label": "anger"
+  },
+  "15": {
+    "startTime": "441.68",
+    "endTime": "444.76",
+    "label": "anger"
+  },
+  "16": {
+    "startTime": "447.37",
+    "endTime": "451.65",
+    "label": "disgust"
+  },
+  "17": {
+    "startTime": "464.78",
+    "endTime": "468.30",
+    "label": "happiness"
+  },
+  "18": {
+    "startTime": "493.17",
+    "endTime": "496.73",
+    "label": "surprise"
+  },
+  "19": {
+    "startTime": "523.63",
+    "endTime": "526.63",
+    "label": "anger"
+  },
+  "20": {
+    "startTime": "553.44",
+    "endTime": "554.92",
+    "label": "surprise"
+  },
+  "21": {
+    "startTime": "572.32",
+    "endTime": "577.84",
+    "label": "happiness"
+  },
+  "22": {
+    "startTime": "577.92",
+    "endTime": "578.40",
+    "label": "happiness"
+  },
+  "23": {
+    "startTime": "580.44",
+    "endTime": "581.16",
+    "label": "happiness"
+  },
+  "24": {
+    "startTime": "612.77",
+    "endTime": "613.85",
+    "label": "disgust"
+  },
+  "25": {
+    "startTime": "617.15",
+    "endTime": "618.27",
+    "label": "anger"
+  },
+  "26": {
+    "startTime": "641.11",
+    "endTime": "646.11",
+    "label": "fear"
+  },
+  "27": {
+    "startTime": "650.20",
+    "endTime": "651.60",
+    "label": "disgust"
+  },
+  "28": {
+    "startTime": "652.04",
+    "endTime": "653.44",
+    "label": "happiness"
+  },
+  "29": {
+    "startTime": "666.71",
+    "endTime": "668.47",
+    "label": "anger"
+  },
+  "30": {
+    "startTime": "672.84",
+    "endTime": "675.08",
+    "label": "happiness"
+  },
+  "31": {
+    "startTime": "696.91",
+    "endTime": "698.03",
+    "label": "fear"
+  },
+  "32": {
+    "startTime": "704.88",
+    "endTime": "705.80",
+    "label": "surprise"
+  },
+  "33": {
+    "startTime": "707.05",
+    "endTime": "709.85",
+    "label": "happiness"
+  },
+  "34": {
+    "startTime": "785.33",
+    "endTime": "788.05",
+    "label": "anger"
+  },
+  "35": {
+    "startTime": "790.97",
+    "endTime": "792.09",
+    "label": "happiness"
+  },
+  "36": {
+    "startTime": "800.47",
+    "endTime": "803.45",
+    "label": "fear"
+  },
+  "37": {
+    "startTime": "805.65",
+    "endTime": "809.04",
+    "label": "anger"
+  },
+  "38": {
+    "startTime": "809.90",
+    "endTime": "813.71",
+    "label": "happiness"
+  },
+  "39": {
+    "startTime": "835.80",
+    "endTime": "837.13",
+    "label": "happiness"
+  },
+  "40": {
+    "startTime": "842.66",
+    "endTime": "842.83",
+    "label": "happiness"
+  },
+  "41": {
+    "startTime": "886.74",
+    "endTime": "887.33",
+    "label": "fear"
+  },
+  "videoURL": "C3L1n6dP4iY",
+  "nickname": "kjubig"
+}

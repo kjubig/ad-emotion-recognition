@@ -1,0 +1,29 @@
+{
+  "0": {
+    "startTime": "57.05",
+    "endTime": "57.53",
+    "label": "anger"
+  },
+  "1": {
+    "startTime": "71.10",
+    "endTime": "74.26",
+    "label": "anger"
+  },
+  "2": {
+    "startTime": "131.03",
+    "endTime": "136.40",
+    "label": "disgust"
+  },
+  "3": {
+    "startTime": "191.13",
+    "endTime": "199.56",
+    "label": "anger"
+  },
+  "4": {
+    "startTime": "466.51",
+    "endTime": "468.51",
+    "label": "surprise"
+  },
+  "videoURL": "mIjLmzJ4FVM",
+  "nickname": "kjubig"
+}
