@@ -5,7 +5,8 @@
     "happiness",
     "anger",
     "fear",
-    "sadness"
+    "sadness",
+    "surprise"
   ],
   "other_emotions_status": "not_reviewed",
   "happiness": [
@@ -906,6 +907,180 @@
         "endTime": "21.92",
         "label": "sadness"
       }
+    }
+  ],
+  "surprise": [
+    {
+      "review_number": 1,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "0",
+      "original": {
+        "startTime": "7.73",
+        "endTime": "8.97",
+        "label": "surprise"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "7.73",
+        "endTime": "8.97",
+        "label": "surprise"
+      }
+    },
+    {
+      "review_number": 2,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "18",
+      "original": {
+        "startTime": "493.17",
+        "endTime": "496.73",
+        "label": "surprise"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "493.17",
+        "endTime": "496.73",
+        "label": "surprise"
+      }
+    },
+    {
+      "review_number": 3,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "20",
+      "original": {
+        "startTime": "553.44",
+        "endTime": "554.92",
+        "label": "surprise"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "553.44",
+        "endTime": "554.92",
+        "label": "surprise"
+      }
+    },
+    {
+      "review_number": 4,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "32",
+      "original": {
+        "startTime": "704.88",
+        "endTime": "705.80",
+        "label": "surprise"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "704.88",
+        "endTime": "705.80",
+        "label": "surprise"
+      }
+    },
+    {
+      "review_number": 5,
+      "videoURL": "MiqZXrbO6Ms",
+      "source_entry": "2",
+      "original": {
+        "startTime": "20.62",
+        "endTime": "22.26",
+        "label": "surprise"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "20.62",
+        "endTime": "22.26",
+        "label": "surprise"
+      }
+    },
+    {
+      "review_number": 6,
+      "videoURL": "mIjLmzJ4FVM",
+      "source_entry": "4",
+      "original": {
+        "startTime": "466.51",
+        "endTime": "468.51",
+        "label": "surprise"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "466.51",
+        "endTime": "468.51",
+        "label": "surprise"
+      }
+    },
+    {
+      "review_number": 7,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "3",
+      "original": {
+        "startTime": "42.52",
+        "endTime": "45.32",
+        "label": "surprise"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "42.52",
+        "endTime": "45.32",
+        "label": "surprise"
+      }
+    },
+    {
+      "review_number": 8,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "6",
+      "original": {
+        "startTime": "311.25",
+        "endTime": "313.25",
+        "label": "surprise"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "311.25",
+        "endTime": "313.25",
+        "label": "surprise"
+      }
+    },
+    {
+      "review_number": 9,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "9",
+      "original": {
+        "startTime": "451.58",
+        "endTime": "452.86",
+        "label": "surprise"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "451.58",
+        "endTime": "452.86",
+        "label": "surprise"
+      }
+    },
+    {
+      "review_number": 10,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "13",
+      "original": {
+        "startTime": "1059.01",
+        "endTime": "1061.29",
+        "label": "surprise"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "1059.01",
+        "endTime": "1061.29",
+        "label": "surprise"
+      }
+    },
+    {
+      "review_number": 11,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "15",
+      "original": {
+        "startTime": "1131.54",
+        "endTime": "1131.94",
+        "label": "surprise"
+      },
+      "decision": "remove",
+      "selected": null
     }
   ]
 }
