@@ -1,0 +1,278 @@
+{
+  "nickname": "kjubig",
+  "updated": "2026-11-01",
+  "reviewed_emotions": [
+    "happiness"
+  ],
+  "other_emotions_status": "not_reviewed",
+  "happiness": [
+    {
+      "review_number": 1,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "3",
+      "original": {
+        "startTime": "304.13",
+        "endTime": "307.05",
+        "label": "happiness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "304.13",
+        "endTime": "307.05",
+        "label": "happiness"
+      }
+    },
+    {
+      "review_number": 2,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "4",
+      "original": {
+        "startTime": "316.31",
+        "endTime": "326.20",
+        "label": "happiness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "321.20",
+        "endTime": "326.20",
+        "label": "happiness"
+      }
+    },
+    {
+      "review_number": 3,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "9",
+      "original": {
+        "startTime": "380.78",
+        "endTime": "381.74",
+        "label": "happiness"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 4,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "10",
+      "original": {
+        "startTime": "388.68",
+        "endTime": "389.28",
+        "label": "happiness"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 5,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "11",
+      "original": {
+        "startTime": "390.80",
+        "endTime": "391.48",
+        "label": "happiness"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 6,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "17",
+      "original": {
+        "startTime": "464.78",
+        "endTime": "468.30",
+        "label": "happiness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "464.78",
+        "endTime": "468.30",
+        "label": "happiness"
+      }
+    },
+    {
+      "review_number": 7,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "21",
+      "original": {
+        "startTime": "572.32",
+        "endTime": "577.84",
+        "label": "happiness"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 8,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "22",
+      "original": {
+        "startTime": "577.92",
+        "endTime": "578.40",
+        "label": "happiness"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 9,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "23",
+      "original": {
+        "startTime": "580.44",
+        "endTime": "581.16",
+        "label": "happiness"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 10,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "28",
+      "original": {
+        "startTime": "652.04",
+        "endTime": "653.44",
+        "label": "happiness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "652.04",
+        "endTime": "653.44",
+        "label": "happiness"
+      }
+    },
+    {
+      "review_number": 11,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "30",
+      "original": {
+        "startTime": "672.84",
+        "endTime": "675.08",
+        "label": "happiness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "672.84",
+        "endTime": "675.08",
+        "label": "happiness"
+      }
+    },
+    {
+      "review_number": 12,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "33",
+      "original": {
+        "startTime": "707.05",
+        "endTime": "709.85",
+        "label": "happiness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "707.05",
+        "endTime": "709.85",
+        "label": "happiness"
+      }
+    },
+    {
+      "review_number": 13,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "35",
+      "original": {
+        "startTime": "790.97",
+        "endTime": "792.09",
+        "label": "happiness"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 14,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "38",
+      "original": {
+        "startTime": "809.90",
+        "endTime": "813.71",
+        "label": "happiness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "809.90",
+        "endTime": "813.71",
+        "label": "happiness"
+      }
+    },
+    {
+      "review_number": 15,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "39",
+      "original": {
+        "startTime": "835.80",
+        "endTime": "837.13",
+        "label": "happiness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "835.80",
+        "endTime": "837.13",
+        "label": "happiness"
+      }
+    },
+    {
+      "review_number": 16,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "40",
+      "original": {
+        "startTime": "842.66",
+        "endTime": "842.83",
+        "label": "happiness"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 17,
+      "videoURL": "pA4hg5IQ6Zs",
+      "source_entry": "0",
+      "original": {
+        "startTime": "122.12",
+        "endTime": "124.33",
+        "label": "happiness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "122.12",
+        "endTime": "124.33",
+        "label": "happiness"
+      }
+    },
+    {
+      "review_number": 18,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "7",
+      "original": {
+        "startTime": "331.95",
+        "endTime": "333.31",
+        "label": "happiness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "331.95",
+        "endTime": "333.31",
+        "label": "happiness"
+      }
+    },
+    {
+      "review_number": 19,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "12",
+      "original": {
+        "startTime": "1042.87",
+        "endTime": "1043.43",
+        "label": "happiness"
+      },
+      "decision": "remove",
+      "selected": null
+    }
+  ]
+}

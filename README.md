@@ -28,6 +28,8 @@ Nie sprawdzono tu wizualnie poprawności wszystkich etykiet. Klipy MP4 nie zosta
 |---|---|
 | `data/annotations/` | 13 oryginalnych eksportów AffecTubeLocal, wyłącznie pliki JSON |
 | `data/metadata/affectube_all.json` | Wszystkie eksporty połączone w tablicę: 13 obiektów, 82 fragmenty |
+| `data/metadata/selection_kjubig.json` | Decyzje przeglądu z numerami fragmentów i zmianami czasów |
+| `data/metadata/affectube_selected.json` | Roboczy zbiór po selekcji: 73 fragmenty; zatwierdzona na razie tylko happiness |
 | `data/metadata/clips_*.csv` | Wcześniejszy szablon i pusta lista robocza; źródłem aktualnych anotacji są JSON-y |
 | `data/clips/` | Miejsce na wycięte MP4 (media pomijane przez Git) |
 | `data/raw/` | Miejsce na pełne filmy robocze (pomijane przez Git) |
@@ -43,6 +45,23 @@ Nie sprawdzono tu wizualnie poprawności wszystkich etykiet. Klipy MP4 nie zosta
 
 `affectube_all.json` obejmuje wszystkie 82 propozycje, więc nie jest jeszcze ostatecznym plikiem 60 fragmentów do oddania.
 Weryfikacja grupowych duplikatów wymaga porównania identyfikatorów filmów z pozostałymi trzema osobami.
+
+## Selekcja — 01.11.2026
+
+Zatwierdzono 10 fragmentów `happiness` z pierwotnych 19.
+Numeracja odnosi się do tabeli 1–19 z przeglądu happiness w rozmowie:
+
+- Pozostają: 1, 2, 6, 10, 11, 12, 14, 15, 17, 18.
+- Odrzucone: 3, 4, 5, 7, 8, 9, 13, 16, 19.
+- Nr 2 skrócono do ostatnich 5 s: `C3L1n6dP4iY`, wpis `4`, **321.20–326.20 s**.
+- Wszystkie pozostawione happiness mają co najmniej 1 s.
+
+Oryginalne eksporty i `affectube_all.json` pozostają bez zmian (82 propozycje).
+Roboczy `affectube_selected.json` zawiera 73 fragmenty: happiness 10, sadness 11,
+anger 17, fear 14, disgust 10, surprise 11. Pozostałe pięć kategorii czeka na przegląd.
+Pliki MP4 nie zostały jeszcze wycięte; skrócenie zapisano jako nowe granice anotacji.
+Kontrola `scripts/przygotuj.py sprawdz` nadal odczytuje pełne oryginały w `data/annotations/`;
+robocza selekcja nie jest jeszcze końcowym plikiem do oddania.
 
 ## Kontrola danych
 
