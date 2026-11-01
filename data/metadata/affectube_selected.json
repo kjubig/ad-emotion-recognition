@@ -28,11 +28,6 @@
       "endTime": "13.61",
       "label": "disgust"
     },
-    "2": {
-      "startTime": "32.81",
-      "endTime": "33.25",
-      "label": "anger"
-    },
     "3": {
       "startTime": "304.13",
       "endTime": "307.05",
@@ -62,11 +57,6 @@
       "startTime": "376.29",
       "endTime": "376.69",
       "label": "disgust"
-    },
-    "12": {
-      "startTime": "423.39",
-      "endTime": "424.51",
-      "label": "anger"
     },
     "13": {
       "startTime": "435.28",
@@ -157,11 +147,6 @@
       "startTime": "707.05",
       "endTime": "709.85",
       "label": "happiness"
-    },
-    "34": {
-      "startTime": "785.33",
-      "endTime": "788.05",
-      "label": "anger"
     },
     "36": {
       "startTime": "800.47",
@@ -277,11 +262,6 @@
     "nickname": "kjubig"
   },
   {
-    "0": {
-      "startTime": "57.05",
-      "endTime": "57.53",
-      "label": "anger"
-    },
     "1": {
       "startTime": "71.10",
       "endTime": "74.26",
@@ -291,11 +271,6 @@
       "startTime": "131.03",
       "endTime": "136.40",
       "label": "disgust"
-    },
-    "3": {
-      "startTime": "191.13",
-      "endTime": "199.56",
-      "label": "anger"
     },
     "4": {
       "startTime": "466.51",
@@ -323,11 +298,6 @@
     "1": {
       "startTime": "34.34",
       "endTime": "36.26",
-      "label": "anger"
-    },
-    "2": {
-      "startTime": "37.88",
-      "endTime": "38.20",
       "label": "anger"
     },
     "3": {
@@ -379,11 +349,6 @@
       "startTime": "1059.01",
       "endTime": "1061.29",
       "label": "surprise"
-    },
-    "14": {
-      "startTime": "1067.60",
-      "endTime": "1073.38",
-      "label": "anger"
     },
     "15": {
       "startTime": "1131.54",

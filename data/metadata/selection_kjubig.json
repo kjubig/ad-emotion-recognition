@@ -2,7 +2,8 @@
   "nickname": "kjubig",
   "updated": "2026-11-01",
   "reviewed_emotions": [
-    "happiness"
+    "happiness",
+    "anger"
   ],
   "other_emotions_status": "not_reviewed",
   "happiness": [
@@ -270,6 +271,252 @@
         "startTime": "1042.87",
         "endTime": "1043.43",
         "label": "happiness"
+      },
+      "decision": "remove",
+      "selected": null
+    }
+  ],
+  "anger": [
+    {
+      "review_number": 1,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "2",
+      "original": {
+        "startTime": "32.81",
+        "endTime": "33.25",
+        "label": "anger"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 2,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "12",
+      "original": {
+        "startTime": "423.39",
+        "endTime": "424.51",
+        "label": "anger"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 3,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "14",
+      "original": {
+        "startTime": "436.94",
+        "endTime": "439.58",
+        "label": "anger"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "436.94",
+        "endTime": "439.58",
+        "label": "anger"
+      }
+    },
+    {
+      "review_number": 4,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "15",
+      "original": {
+        "startTime": "441.68",
+        "endTime": "444.76",
+        "label": "anger"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "441.68",
+        "endTime": "444.76",
+        "label": "anger"
+      }
+    },
+    {
+      "review_number": 5,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "19",
+      "original": {
+        "startTime": "523.63",
+        "endTime": "526.63",
+        "label": "anger"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "523.63",
+        "endTime": "526.63",
+        "label": "anger"
+      }
+    },
+    {
+      "review_number": 6,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "25",
+      "original": {
+        "startTime": "617.15",
+        "endTime": "618.27",
+        "label": "anger"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "617.15",
+        "endTime": "618.27",
+        "label": "anger"
+      }
+    },
+    {
+      "review_number": 7,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "29",
+      "original": {
+        "startTime": "666.71",
+        "endTime": "668.47",
+        "label": "anger"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "666.71",
+        "endTime": "668.47",
+        "label": "anger"
+      }
+    },
+    {
+      "review_number": 8,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "34",
+      "original": {
+        "startTime": "785.33",
+        "endTime": "788.05",
+        "label": "anger"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 9,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "37",
+      "original": {
+        "startTime": "805.65",
+        "endTime": "809.04",
+        "label": "anger"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "805.65",
+        "endTime": "809.04",
+        "label": "anger"
+      }
+    },
+    {
+      "review_number": 10,
+      "videoURL": "MiqZXrbO6Ms",
+      "source_entry": "0",
+      "original": {
+        "startTime": "2.02",
+        "endTime": "3.11",
+        "label": "anger"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "2.02",
+        "endTime": "3.11",
+        "label": "anger"
+      }
+    },
+    {
+      "review_number": 11,
+      "videoURL": "mIjLmzJ4FVM",
+      "source_entry": "0",
+      "original": {
+        "startTime": "57.05",
+        "endTime": "57.53",
+        "label": "anger"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 12,
+      "videoURL": "mIjLmzJ4FVM",
+      "source_entry": "1",
+      "original": {
+        "startTime": "71.10",
+        "endTime": "74.26",
+        "label": "anger"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "71.10",
+        "endTime": "74.26",
+        "label": "anger"
+      }
+    },
+    {
+      "review_number": 13,
+      "videoURL": "mIjLmzJ4FVM",
+      "source_entry": "3",
+      "original": {
+        "startTime": "191.13",
+        "endTime": "199.56",
+        "label": "anger"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 14,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "1",
+      "original": {
+        "startTime": "34.34",
+        "endTime": "36.26",
+        "label": "anger"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "34.34",
+        "endTime": "36.26",
+        "label": "anger"
+      }
+    },
+    {
+      "review_number": 15,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "2",
+      "original": {
+        "startTime": "37.88",
+        "endTime": "38.20",
+        "label": "anger"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 16,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "10",
+      "original": {
+        "startTime": "529.49",
+        "endTime": "532.41",
+        "label": "anger"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "529.49",
+        "endTime": "532.41",
+        "label": "anger"
+      }
+    },
+    {
+      "review_number": 17,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "14",
+      "original": {
+        "startTime": "1067.60",
+        "endTime": "1073.38",
+        "label": "anger"
       },
       "decision": "remove",
       "selected": null
