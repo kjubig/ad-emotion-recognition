@@ -29,7 +29,7 @@ Nie sprawdzono tu wizualnie poprawności wszystkich etykiet. Klipy MP4 nie zosta
 | `data/annotations/` | 13 oryginalnych eksportów AffecTubeLocal, wyłącznie pliki JSON |
 | `data/metadata/affectube_all.json` | Wszystkie eksporty połączone w tablicę: 13 obiektów, 82 fragmenty |
 | `data/metadata/selection_kjubig.json` | Decyzje przeglądu z numerami fragmentów i zmianami czasów |
-| `data/metadata/affectube_selected.json` | Roboczy zbiór po selekcji: 66 fragmentów; zatwierdzone happiness i anger |
+| `data/metadata/affectube_selected.json` | Roboczy zbiór po selekcji: 62 fragmenty; zatwierdzone happiness, anger i fear |
 | `data/metadata/clips_*.csv` | Wcześniejszy szablon i pusta lista robocza; źródłem aktualnych anotacji są JSON-y |
 | `data/clips/` | Miejsce na wycięte MP4 (media pomijane przez Git) |
 | `data/raw/` | Miejsce na pełne filmy robocze (pomijane przez Git) |
@@ -64,8 +64,15 @@ Numeracja odnosi się do tabeli 1–17 z przeglądu złości w rozmowie:
 - Odrzucone: 1, 2, 8, 11, 13, 15, 17.
 - Czasy pozostawionych fragmentów złości nie zmieniły się; wszystkie mają długość 1–5 s.
 
-Roboczy `affectube_selected.json` zawiera 66 fragmentów: happiness 10, sadness 11,
-anger 10, fear 14, disgust 10, surprise 11. Pozostałe cztery kategorie czekają na przegląd.
+Zatwierdzono też 10 fragmentów `fear` z pierwotnych 14.
+Numeracja odnosi się do tabeli 1–14 z przeglądu strachu w rozmowie:
+
+- Pozostają: 1, 2, 4, 7, 9, 10, 11, 12, 13, 14.
+- Odrzucone: 3, 5, 6, 8.
+- Czasy pozostawionych fragmentów strachu nie zmieniły się. Pozostaje krótki fragment Phones4u: 18.66–19.48 s (0.82 s), zaakceptowany w selekcji.
+
+Roboczy `affectube_selected.json` zawiera 62 fragmenty: happiness 10, sadness 11,
+anger 10, fear 10, disgust 10, surprise 11. Pozostałe trzy kategorie czekają na przegląd.
 Pliki MP4 nie zostały jeszcze wycięte; skrócenie zapisano jako nowe granice anotacji.
 Kontrola `scripts/przygotuj.py sprawdz` nadal odczytuje pełne oryginały w `data/annotations/`;
 robocza selekcja nie jest jeszcze końcowym plikiem do oddania.

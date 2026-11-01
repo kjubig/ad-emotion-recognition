@@ -3,7 +3,8 @@
   "updated": "2026-11-01",
   "reviewed_emotions": [
     "happiness",
-    "anger"
+    "anger",
+    "fear"
   ],
   "other_emotions_status": "not_reviewed",
   "happiness": [
@@ -520,6 +521,216 @@
       },
       "decision": "remove",
       "selected": null
+    }
+  ],
+  "fear": [
+    {
+      "review_number": 1,
+      "videoURL": "9FuhLHvaTyk",
+      "source_entry": "0",
+      "original": {
+        "startTime": "18.66",
+        "endTime": "19.48",
+        "label": "fear"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "18.66",
+        "endTime": "19.48",
+        "label": "fear"
+      }
+    },
+    {
+      "review_number": 2,
+      "videoURL": "AXY9yi2RzS4",
+      "source_entry": "0",
+      "original": {
+        "startTime": "10.60",
+        "endTime": "12.75",
+        "label": "fear"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "10.60",
+        "endTime": "12.75",
+        "label": "fear"
+      }
+    },
+    {
+      "review_number": 3,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "26",
+      "original": {
+        "startTime": "641.11",
+        "endTime": "646.11",
+        "label": "fear"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 4,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "31",
+      "original": {
+        "startTime": "696.91",
+        "endTime": "698.03",
+        "label": "fear"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "696.91",
+        "endTime": "698.03",
+        "label": "fear"
+      }
+    },
+    {
+      "review_number": 5,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "36",
+      "original": {
+        "startTime": "800.47",
+        "endTime": "803.45",
+        "label": "fear"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 6,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "41",
+      "original": {
+        "startTime": "886.74",
+        "endTime": "887.33",
+        "label": "fear"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 7,
+      "videoURL": "JgSv1SKCteQ",
+      "source_entry": "0",
+      "original": {
+        "startTime": "10.38",
+        "endTime": "12.15",
+        "label": "fear"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "10.38",
+        "endTime": "12.15",
+        "label": "fear"
+      }
+    },
+    {
+      "review_number": 8,
+      "videoURL": "MQ6t3DI4fXo",
+      "source_entry": "0",
+      "original": {
+        "startTime": "30.59",
+        "endTime": "31.46",
+        "label": "fear"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 9,
+      "videoURL": "MQ6t3DI4fXo",
+      "source_entry": "1",
+      "original": {
+        "startTime": "126.88",
+        "endTime": "131.72",
+        "label": "fear"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "126.88",
+        "endTime": "131.72",
+        "label": "fear"
+      }
+    },
+    {
+      "review_number": 10,
+      "videoURL": "MQ6t3DI4fXo",
+      "source_entry": "2",
+      "original": {
+        "startTime": "140.22",
+        "endTime": "145.08",
+        "label": "fear"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "140.22",
+        "endTime": "145.08",
+        "label": "fear"
+      }
+    },
+    {
+      "review_number": 11,
+      "videoURL": "MQ6t3DI4fXo",
+      "source_entry": "3",
+      "original": {
+        "startTime": "164.20",
+        "endTime": "165.84",
+        "label": "fear"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "164.20",
+        "endTime": "165.84",
+        "label": "fear"
+      }
+    },
+    {
+      "review_number": 12,
+      "videoURL": "MiqZXrbO6Ms",
+      "source_entry": "1",
+      "original": {
+        "startTime": "6.94",
+        "endTime": "8.06",
+        "label": "fear"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "6.94",
+        "endTime": "8.06",
+        "label": "fear"
+      }
+    },
+    {
+      "review_number": 13,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "8",
+      "original": {
+        "startTime": "438.04",
+        "endTime": "439.60",
+        "label": "fear"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "438.04",
+        "endTime": "439.60",
+        "label": "fear"
+      }
+    },
+    {
+      "review_number": 14,
+      "videoURL": "uQ-hlcux66s",
+      "source_entry": "0",
+      "original": {
+        "startTime": "6.30",
+        "endTime": "8.09",
+        "label": "fear"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "6.30",
+        "endTime": "8.09",
+        "label": "fear"
+      }
     }
   ]
 }

@@ -108,11 +108,6 @@
       "endTime": "618.27",
       "label": "anger"
     },
-    "26": {
-      "startTime": "641.11",
-      "endTime": "646.11",
-      "label": "fear"
-    },
     "27": {
       "startTime": "650.20",
       "endTime": "651.60",
@@ -148,11 +143,6 @@
       "endTime": "709.85",
       "label": "happiness"
     },
-    "36": {
-      "startTime": "800.47",
-      "endTime": "803.45",
-      "label": "fear"
-    },
     "37": {
       "startTime": "805.65",
       "endTime": "809.04",
@@ -168,11 +158,6 @@
       "endTime": "837.13",
       "label": "happiness"
     },
-    "41": {
-      "startTime": "886.74",
-      "endTime": "887.33",
-      "label": "fear"
-    },
     "videoURL": "C3L1n6dP4iY",
     "nickname": "kjubig"
   },
@@ -186,11 +171,6 @@
     "nickname": "kjubig"
   },
   {
-    "0": {
-      "startTime": "30.59",
-      "endTime": "31.46",
-      "label": "fear"
-    },
     "1": {
       "startTime": "126.88",
       "endTime": "131.72",
