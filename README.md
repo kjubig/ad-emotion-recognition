@@ -20,7 +20,7 @@ Zebrano **82 fragmenty z 13 filmów**. Oryginalne eksporty pozostają niezmienio
 Każda kategoria ma wymaganą liczbę przykładów. Pozostaje wybór końcowych 60 i przygotowanie klipów MP4.
 Kontrola wykazała poprawną strukturę, wspólny nickname, dozwolone etykiety oraz brak duplikatów i nakładania czasów.
 21 fragmentów ma długość poza zwykłym zakresem 1–5 s; wymaga to przeglądu, nie oznacza automatycznego odrzucenia.
-Nie sprawdzono tu wizualnie poprawności wszystkich etykiet. Klipy MP4 nie zostały jeszcze pobrane ani wycięte.
+Nie sprawdzono tu wizualnie poprawności wszystkich etykiet. Wycięto 60 klipów z roboczej selekcji; patrz sekcja „Gotowe klipy”.
 
 ## Gdzie są pliki
 
@@ -38,7 +38,9 @@ Nie sprawdzono tu wizualnie poprawności wszystkich etykiet. Klipy MP4 nie zosta
 | `docs/START.md` | Dalszy przebieg pracy i wymagania oddania |
 | `docs/lista_filmow.md` | Pierwotna lista kandydatów, nie wykaz zebranych anotacji |
 | `docs/lista_zrodel_kjubig.md` | Aktualna lista 13 oznaczonych źródeł do porównania w grupie |
-| `scripts/przygotuj.py` | Kontrola JSON-ów i pakowanie kompletu do oddania |
+| `scripts/przygotuj.py` | Kontrola oryginalnych JSON-ów i pakowanie kompletu do oddania |
+| `scripts/cut_selected.py` | Pobieranie i cięcie wybranych 60 fragmentów |
+| `data/metadata/clip_report.json` | Kontrola 60 wycinków, długości, strumienie i sumy SHA-256 |
 | `tests/` | Testy narzędzia kontroli i pakowania |
 | `outputs/` | Docelowe pliki do oddania |
 | `annotation/`, `analysis/`, `model/`, `presentation/` | Miejsce na kolejne etapy projektu |
@@ -85,9 +87,32 @@ Numeracja odnosi się do tabeli 1–11 z przeglądu zaskoczenia w rozmowie:
 
 Roboczy `affectube_selected.json` zawiera 60 fragmentów, po 10 każdej emocji.
 Do przeglądu pozostała kategoria `disgust` (10 fragmentów); pozostałe pięć kategorii zatwierdzono.
-Pliki MP4 nie zostały jeszcze wycięte; skrócenie zapisano jako nowe granice anotacji.
+Pliki MP4 zostały wycięte z wybranych anotacji, łącznie ze skróceniem happiness do 321.20–326.20 s.
 Kontrola `scripts/przygotuj.py sprawdz` nadal odczytuje pełne oryginały w `data/annotations/`;
 robocza selekcja nie jest jeszcze końcowym plikiem do oddania.
+
+## Gotowe klipy — 01.11.2026
+
+W `data/clips/` znajdują się **60 klipów MP4** (27.2 MiB), po 10 każdej emocji.
+Nazwy odpowiadają dokładnym czasom w `data/metadata/affectube_selected.json`, bez marginesu i bez etykiety emocji.
+Każdy klip został odczytany i zdekodowany; długość sprawdzono z tolerancją jednej klatki oraz 25 ms.
+Dźwięk zachowano i sprawdzono jego odczyt. Dodatkowo sprawdzono początki ośmiu wycinków względem klatek źródłowych,
+w tym skrócony fragment happiness. Raport techniczny nie jest oceną poprawności etykiet emocji.
+
+Pełne filmy robocze są w `data/raw/`. Media i lokalne środowisko `.venv/` są pomijane przez Git.
+Oryginalne anotacje pozostały bez zmian. Do obejrzenia nadal pozostają gotowe klipy, zwłaszcza wstręt.
+Przed oddaniem trzeba przygotować JSON i ZIP z numerem indeksu na podstawie **wybranej selekcji**,
+a nie pełnych 82 oryginalnych anotacji.
+
+Ponowne wycinanie (istniejące poprawne klipy są sprawdzane i zachowywane):
+
+```bash
+.venv/bin/python scripts/cut_selected.py
+```
+
+Środowisko wymaga Python 3.10+ oraz pakietów z `scripts/requirements-clips.txt`.
+Jeśli Node.js jest poza PATH, można wskazać go opcją `--node /sciezka/do/node`.
+FFmpeg jest dostarczany lokalnie przez pakiet imageio-ffmpeg; nie wymaga instalacji globalnej.
 
 ## Kontrola danych
 
