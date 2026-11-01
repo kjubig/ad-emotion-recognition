@@ -29,7 +29,7 @@ Nie sprawdzono tu wizualnie poprawności wszystkich etykiet. Klipy MP4 nie zosta
 | `data/annotations/` | 13 oryginalnych eksportów AffecTubeLocal, wyłącznie pliki JSON |
 | `data/metadata/affectube_all.json` | Wszystkie eksporty połączone w tablicę: 13 obiektów, 82 fragmenty |
 | `data/metadata/selection_kjubig.json` | Decyzje przeglądu z numerami fragmentów i zmianami czasów |
-| `data/metadata/affectube_selected.json` | Roboczy zbiór po selekcji: 62 fragmenty; zatwierdzone happiness, anger i fear |
+| `data/metadata/affectube_selected.json` | Roboczy zbiór po selekcji: 61 fragmentów; zatwierdzone happiness, anger, fear i sadness |
 | `data/metadata/clips_*.csv` | Wcześniejszy szablon i pusta lista robocza; źródłem aktualnych anotacji są JSON-y |
 | `data/clips/` | Miejsce na wycięte MP4 (media pomijane przez Git) |
 | `data/raw/` | Miejsce na pełne filmy robocze (pomijane przez Git) |
@@ -71,8 +71,14 @@ Numeracja odnosi się do tabeli 1–14 z przeglądu strachu w rozmowie:
 - Odrzucone: 3, 5, 6, 8.
 - Czasy pozostawionych fragmentów strachu nie zmieniły się. Pozostaje krótki fragment Phones4u: 18.66–19.48 s (0.82 s), zaakceptowany w selekcji.
 
-Roboczy `affectube_selected.json` zawiera 62 fragmenty: happiness 10, sadness 11,
-anger 10, fear 10, disgust 10, surprise 11. Pozostałe trzy kategorie czekają na przegląd.
+Zatwierdzono też 10 fragmentów `sadness` z pierwotnych 11.
+Numeracja odnosi się do tabeli 1–11 z przeglądu smutku w rozmowie:
+
+- Odrzucony: nr 7, `pklZ4sYs5SI`, wpis `0`, 32.35–34.11 s.
+- Pozostają: 1, 2, 3, 4, 5, 6, 8, 9, 10, 11. Ich granice nie zmieniły się.
+
+Roboczy `affectube_selected.json` zawiera 61 fragmentów: happiness 10, sadness 10,
+anger 10, fear 10, disgust 10, surprise 11. Pozostałe dwie kategorie czekają na przegląd.
 Pliki MP4 nie zostały jeszcze wycięte; skrócenie zapisano jako nowe granice anotacji.
 Kontrola `scripts/przygotuj.py sprawdz` nadal odczytuje pełne oryginały w `data/annotations/`;
 robocza selekcja nie jest jeszcze końcowym plikiem do oddania.

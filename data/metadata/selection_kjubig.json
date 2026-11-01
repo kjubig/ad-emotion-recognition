@@ -4,7 +4,8 @@
   "reviewed_emotions": [
     "happiness",
     "anger",
-    "fear"
+    "fear",
+    "sadness"
   ],
   "other_emotions_status": "not_reviewed",
   "happiness": [
@@ -730,6 +731,180 @@
         "startTime": "6.30",
         "endTime": "8.09",
         "label": "fear"
+      }
+    }
+  ],
+  "sadness": [
+    {
+      "review_number": 1,
+      "videoURL": "C3L1n6dP4iY",
+      "source_entry": "5",
+      "original": {
+        "startTime": "333.25",
+        "endTime": "334.69",
+        "label": "sadness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "333.25",
+        "endTime": "334.69",
+        "label": "sadness"
+      }
+    },
+    {
+      "review_number": 2,
+      "videoURL": "OZDFEYABik4",
+      "source_entry": "0",
+      "original": {
+        "startTime": "64.45",
+        "endTime": "67.12",
+        "label": "sadness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "64.45",
+        "endTime": "67.12",
+        "label": "sadness"
+      }
+    },
+    {
+      "review_number": 3,
+      "videoURL": "OZDFEYABik4",
+      "source_entry": "1",
+      "original": {
+        "startTime": "109.50",
+        "endTime": "111.45",
+        "label": "sadness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "109.50",
+        "endTime": "111.45",
+        "label": "sadness"
+      }
+    },
+    {
+      "review_number": 4,
+      "videoURL": "V6-0kYhqoRo",
+      "source_entry": "0",
+      "original": {
+        "startTime": "15.02",
+        "endTime": "16.74",
+        "label": "sadness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "15.02",
+        "endTime": "16.74",
+        "label": "sadness"
+      }
+    },
+    {
+      "review_number": 5,
+      "videoURL": "V6-0kYhqoRo",
+      "source_entry": "1",
+      "original": {
+        "startTime": "21.85",
+        "endTime": "24.04",
+        "label": "sadness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "21.85",
+        "endTime": "24.04",
+        "label": "sadness"
+      }
+    },
+    {
+      "review_number": 6,
+      "videoURL": "V6-0kYhqoRo",
+      "source_entry": "2",
+      "original": {
+        "startTime": "54.53",
+        "endTime": "57.83",
+        "label": "sadness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "54.53",
+        "endTime": "57.83",
+        "label": "sadness"
+      }
+    },
+    {
+      "review_number": 7,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "0",
+      "original": {
+        "startTime": "32.35",
+        "endTime": "34.11",
+        "label": "sadness"
+      },
+      "decision": "remove",
+      "selected": null
+    },
+    {
+      "review_number": 8,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "5",
+      "original": {
+        "startTime": "263.39",
+        "endTime": "264.91",
+        "label": "sadness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "263.39",
+        "endTime": "264.91",
+        "label": "sadness"
+      }
+    },
+    {
+      "review_number": 9,
+      "videoURL": "pklZ4sYs5SI",
+      "source_entry": "11",
+      "original": {
+        "startTime": "810.82",
+        "endTime": "813.66",
+        "label": "sadness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "810.82",
+        "endTime": "813.66",
+        "label": "sadness"
+      }
+    },
+    {
+      "review_number": 10,
+      "videoURL": "rT4QqvvNgeM",
+      "source_entry": "0",
+      "original": {
+        "startTime": "14.13",
+        "endTime": "15.35",
+        "label": "sadness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "14.13",
+        "endTime": "15.35",
+        "label": "sadness"
+      }
+    },
+    {
+      "review_number": 11,
+      "videoURL": "rT4QqvvNgeM",
+      "source_entry": "1",
+      "original": {
+        "startTime": "20.33",
+        "endTime": "21.92",
+        "label": "sadness"
+      },
+      "decision": "keep",
+      "selected": {
+        "startTime": "20.33",
+        "endTime": "21.92",
+        "label": "sadness"
       }
     }
   ]
