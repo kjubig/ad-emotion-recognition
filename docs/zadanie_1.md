@@ -1,28 +1,27 @@
-# Zadanie 1 — przygotowanie zbioru
+# Zadanie 1 — przygotowanie zbioru do zaetykietowania
 
-Temat grupy: reklamy. Zespół ma 4 osoby; każdy oddaje swoją część osobno.
-Moja część: indeks **193178**, nickname **kjubig**.
+Celem jest przygotowanie krótkich klipów z YouTube, które w kolejnym zadaniu zostaną przekazane innemu zespołowi do anotacji.
 
-## Co przygotowano
+## Wymagania
 
-60 fragmentów z 13 filmów YouTube: po 10 `happiness`, `sadness`, `anger`, `fear`, `disgust` i `surprise`.
-Źródła zostały uzgodnione z grupą. Fragmenty tego samego filmu nie nakładają się.
-Zachowano zatwierdzone klipy bez zmian. Wskazówka „zwykle 1–5 s” ma cztery wyjątki: 0,40 s, 0,82 s, 0,92 s i 5,37 s.
+- Każda osoba przygotowuje **60 fragmentów**: po 10 `happiness`, `sadness`, `anger`, `fear`, `disgust` i `surprise`.
+- Materiały muszą pasować do tematu wybranego przez grupę. Uzgodnijcie różne filmy źródłowe dla każdej osoby i unikajcie powtórzonych scen.
+- Oznaczaj fragmenty we wtyczce AffecTube, zawsze z tym samym, jednoznacznym `nickname`. Zachowaj eksport JSON z każdego filmu; nie edytuj ręcznie struktury eksportów.
+- Fragment powinien obejmować widoczną emocję i być krótki, zwykle 1–5 s. Fragmenty tego samego filmu nie mogą się nakładać.
 
 ## Pliki do oddania
 
-- `outputs/193178_affectube.json` — tablica 13 obiektów w formacie AffecTube, zawierająca końcowe 60 anotacji.
-- `outputs/193178_klipy.zip` — dokładnie 60 odpowiadających im plików MP4, bez podfolderów i pełnych filmów.
+1. **`nrindeksu_affectube.json`** — poprawny JSON w UTF-8: tablica obiektów z eksportów AffecTube, po jednym na film. Obiekty przenieś bez zmian. Łącznie muszą zawierać 60 fragmentów, po 10 każdej emocji.
+2. **`nrindeksu_klipy.zip`** — dokładnie odpowiadające anotacjom klipy MP4, bez podfolderów i pełnych filmów źródłowych.
 
-Nazwy klipów: `<videoID>_<start>-<end>.mp4`, z czasami do dwóch miejsc po kropce, bez etykiety emocji i bez dodatkowego marginesu.
+Nazwa każdego klipu: `<videoURL>_<startTime>-<endTime>.mp4`, np. `rGhOuA3rr1k_5.16-6.28.mp4`.
+`videoURL` oznacza identyfikator filmu YouTube. Czasy muszą odpowiadać anotacjom, mieć dwa miejsca po kropce i nie zawierać dodatkowego marginesu. Nazwa nie zawiera etykiety emocji.
 
-Sprawdzono liczbę i etykiety, czasy, brak duplikatów i nakładania, nazwy plików, odczyt obrazu i dźwięku,
-długości z dokładnością do klatek oraz zgodność zawartości ZIP z JSON-em i lokalnymi MP4.
+Przed oddaniem sprawdź liczbę i etykiety fragmentów, brak duplikatów i nakładania, zgodność JSON-u z nazwami MP4 oraz odtwórz kilka klipów.
 
 ## Oddanie
 
-Na eNauczaniu oddaj oba pliki z `outputs/`. W komentarzu podaj **numer zespołu**.
-Jeśli ZIP przekroczy limit platformy, umieść go w chmurze i oddaj link z dostępem do odczytu.
+Każdy student oddaje swoją część **indywidualnie na eNauczaniu**. Zastąp `nrindeksu` swoim numerem indeksu i w komentarzu podaj **numer zespołu**.
+Jeżeli ZIP przekracza limit platformy, umieść go w chmurze i oddaj link z dostępem do odczytu.
 
-`data/annotations/` zawiera oryginalne eksporty sprzed selekcji (82 propozycje); nie są plikami do oddania.
-`data/clips/` zawiera lokalne MP4. Komplet klipów jest też w archiwum ZIP.
+Opis opracowano na podstawie instrukcji prowadzących „Zadanie 1. Przygotowanie zbioru do zaetykietowania”.
