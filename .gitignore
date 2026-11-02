@@ -1,23 +1,11 @@
-# media – za duże do gita, odtwarzalne z metadanych
-data/raw/*
+# Lokalne media są już w końcowym archiwum ZIP.
 data/clips/*
-!data/raw/.gitkeep
 !data/clips/.gitkeep
 *.mp4
 *.webm
 *.mkv
 *.part
-
-# python
+.venv/
 __pycache__/
 *.pyc
-.venv/
-venv/
-.ipynb_checkpoints/
-
-# system
 .DS_Store
-
-# paczki z mediami i robocze pobrania
-*.zip
-*.ytdl
