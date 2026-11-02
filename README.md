@@ -9,6 +9,10 @@ demonstrację jego działania na nowych przykładach i prezentację wyników.
 
 Obecnie repozytorium zawiera materiały do pierwszego etapu — przygotowania zbioru danych. Kolejne etapy będą rozwijane w ramach projektu.
 
-- `data/` — oryginalne anotacje i lokalne klipy wideo.
-- `outputs/` — przygotowane zbiory anotacji JSON i archiwa klipów MP4.
+- `data/clips/` — wspólny zbiór wybranych klipów MP4 do dalszej pracy.
+- `data/annotations/` — końcowe anotacje, osobny plik `<indeks>.json` dla każdej osoby.
+- `data/original_exports/` — oryginalne eksporty AffecTube sprzed selekcji.
+- `outputs/` — pliki przygotowane do oddania prowadzącym.
 - [`docs/zadanie_1.md`](docs/zadanie_1.md) — wymagania pierwszego zadania.
+
+Każda osoba dodaje swoje wybrane klipy i anotacje do `data/`; gotowe paczki do oddania trafiają do `outputs/`.

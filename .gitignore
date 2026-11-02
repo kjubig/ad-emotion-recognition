@@ -1,10 +1,9 @@
-# Lokalne media są już w końcowym archiwum ZIP.
-data/clips/*
-!data/clips/.gitkeep
+# Wybrane klipy projektu są wersjonowane; pozostałe media pomijamy.
 *.mp4
 *.webm
 *.mkv
 *.part
+!data/clips/*.mp4
 .venv/
 __pycache__/
 *.pyc

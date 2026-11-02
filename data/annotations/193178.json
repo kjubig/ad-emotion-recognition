@@ -1,0 +1,354 @@
+[
+  {
+    "0": {
+      "startTime": "18.66",
+      "endTime": "19.48",
+      "label": "fear"
+    },
+    "videoURL": "9FuhLHvaTyk",
+    "nickname": "kjubig"
+  },
+  {
+    "0": {
+      "startTime": "10.60",
+      "endTime": "12.75",
+      "label": "fear"
+    },
+    "videoURL": "AXY9yi2RzS4",
+    "nickname": "kjubig"
+  },
+  {
+    "0": {
+      "startTime": "7.73",
+      "endTime": "8.97",
+      "label": "surprise"
+    },
+    "1": {
+      "startTime": "12.29",
+      "endTime": "13.61",
+      "label": "disgust"
+    },
+    "3": {
+      "startTime": "304.13",
+      "endTime": "307.05",
+      "label": "happiness"
+    },
+    "4": {
+      "startTime": "321.20",
+      "endTime": "326.20",
+      "label": "happiness"
+    },
+    "5": {
+      "startTime": "333.25",
+      "endTime": "334.69",
+      "label": "sadness"
+    },
+    "6": {
+      "startTime": "371.59",
+      "endTime": "373.11",
+      "label": "disgust"
+    },
+    "7": {
+      "startTime": "373.19",
+      "endTime": "374.39",
+      "label": "disgust"
+    },
+    "8": {
+      "startTime": "376.29",
+      "endTime": "376.69",
+      "label": "disgust"
+    },
+    "13": {
+      "startTime": "435.28",
+      "endTime": "436.92",
+      "label": "disgust"
+    },
+    "14": {
+      "startTime": "436.94",
+      "endTime": "439.58",
+      "label": "anger"
+    },
+    "15": {
+      "startTime": "441.68",
+      "endTime": "444.76",
+      "label": "anger"
+    },
+    "16": {
+      "startTime": "447.37",
+      "endTime": "451.65",
+      "label": "disgust"
+    },
+    "17": {
+      "startTime": "464.78",
+      "endTime": "468.30",
+      "label": "happiness"
+    },
+    "18": {
+      "startTime": "493.17",
+      "endTime": "496.73",
+      "label": "surprise"
+    },
+    "19": {
+      "startTime": "523.63",
+      "endTime": "526.63",
+      "label": "anger"
+    },
+    "20": {
+      "startTime": "553.44",
+      "endTime": "554.92",
+      "label": "surprise"
+    },
+    "24": {
+      "startTime": "612.77",
+      "endTime": "613.85",
+      "label": "disgust"
+    },
+    "25": {
+      "startTime": "617.15",
+      "endTime": "618.27",
+      "label": "anger"
+    },
+    "27": {
+      "startTime": "650.20",
+      "endTime": "651.60",
+      "label": "disgust"
+    },
+    "28": {
+      "startTime": "652.04",
+      "endTime": "653.44",
+      "label": "happiness"
+    },
+    "29": {
+      "startTime": "666.71",
+      "endTime": "668.47",
+      "label": "anger"
+    },
+    "30": {
+      "startTime": "672.84",
+      "endTime": "675.08",
+      "label": "happiness"
+    },
+    "31": {
+      "startTime": "696.91",
+      "endTime": "698.03",
+      "label": "fear"
+    },
+    "32": {
+      "startTime": "704.88",
+      "endTime": "705.80",
+      "label": "surprise"
+    },
+    "33": {
+      "startTime": "707.05",
+      "endTime": "709.85",
+      "label": "happiness"
+    },
+    "37": {
+      "startTime": "805.65",
+      "endTime": "809.04",
+      "label": "anger"
+    },
+    "38": {
+      "startTime": "809.90",
+      "endTime": "813.71",
+      "label": "happiness"
+    },
+    "39": {
+      "startTime": "835.80",
+      "endTime": "837.13",
+      "label": "happiness"
+    },
+    "videoURL": "C3L1n6dP4iY",
+    "nickname": "kjubig"
+  },
+  {
+    "0": {
+      "startTime": "10.38",
+      "endTime": "12.15",
+      "label": "fear"
+    },
+    "videoURL": "JgSv1SKCteQ",
+    "nickname": "kjubig"
+  },
+  {
+    "1": {
+      "startTime": "126.88",
+      "endTime": "131.72",
+      "label": "fear"
+    },
+    "2": {
+      "startTime": "140.22",
+      "endTime": "145.08",
+      "label": "fear"
+    },
+    "3": {
+      "startTime": "164.20",
+      "endTime": "165.84",
+      "label": "fear"
+    },
+    "videoURL": "MQ6t3DI4fXo",
+    "nickname": "kjubig"
+  },
+  {
+    "0": {
+      "startTime": "2.02",
+      "endTime": "3.11",
+      "label": "anger"
+    },
+    "1": {
+      "startTime": "6.94",
+      "endTime": "8.06",
+      "label": "fear"
+    },
+    "2": {
+      "startTime": "20.62",
+      "endTime": "22.26",
+      "label": "surprise"
+    },
+    "videoURL": "MiqZXrbO6Ms",
+    "nickname": "kjubig"
+  },
+  {
+    "0": {
+      "startTime": "64.45",
+      "endTime": "67.12",
+      "label": "sadness"
+    },
+    "1": {
+      "startTime": "109.50",
+      "endTime": "111.45",
+      "label": "sadness"
+    },
+    "videoURL": "OZDFEYABik4",
+    "nickname": "kjubig"
+  },
+  {
+    "0": {
+      "startTime": "15.02",
+      "endTime": "16.74",
+      "label": "sadness"
+    },
+    "1": {
+      "startTime": "21.85",
+      "endTime": "24.04",
+      "label": "sadness"
+    },
+    "2": {
+      "startTime": "54.53",
+      "endTime": "57.83",
+      "label": "sadness"
+    },
+    "videoURL": "V6-0kYhqoRo",
+    "nickname": "kjubig"
+  },
+  {
+    "1": {
+      "startTime": "71.10",
+      "endTime": "74.26",
+      "label": "anger"
+    },
+    "2": {
+      "startTime": "131.03",
+      "endTime": "136.40",
+      "label": "disgust"
+    },
+    "4": {
+      "startTime": "466.51",
+      "endTime": "468.51",
+      "label": "surprise"
+    },
+    "videoURL": "mIjLmzJ4FVM",
+    "nickname": "kjubig"
+  },
+  {
+    "0": {
+      "startTime": "122.12",
+      "endTime": "124.33",
+      "label": "happiness"
+    },
+    "videoURL": "pA4hg5IQ6Zs",
+    "nickname": "kjubig"
+  },
+  {
+    "1": {
+      "startTime": "34.34",
+      "endTime": "36.26",
+      "label": "anger"
+    },
+    "3": {
+      "startTime": "42.52",
+      "endTime": "45.32",
+      "label": "surprise"
+    },
+    "4": {
+      "startTime": "48.74",
+      "endTime": "49.90",
+      "label": "disgust"
+    },
+    "5": {
+      "startTime": "263.39",
+      "endTime": "264.91",
+      "label": "sadness"
+    },
+    "6": {
+      "startTime": "311.25",
+      "endTime": "313.25",
+      "label": "surprise"
+    },
+    "7": {
+      "startTime": "331.95",
+      "endTime": "333.31",
+      "label": "happiness"
+    },
+    "8": {
+      "startTime": "438.04",
+      "endTime": "439.60",
+      "label": "fear"
+    },
+    "9": {
+      "startTime": "451.58",
+      "endTime": "452.86",
+      "label": "surprise"
+    },
+    "10": {
+      "startTime": "529.49",
+      "endTime": "532.41",
+      "label": "anger"
+    },
+    "11": {
+      "startTime": "810.82",
+      "endTime": "813.66",
+      "label": "sadness"
+    },
+    "13": {
+      "startTime": "1059.01",
+      "endTime": "1061.29",
+      "label": "surprise"
+    },
+    "videoURL": "pklZ4sYs5SI",
+    "nickname": "kjubig"
+  },
+  {
+    "0": {
+      "startTime": "14.13",
+      "endTime": "15.35",
+      "label": "sadness"
+    },
+    "1": {
+      "startTime": "20.33",
+      "endTime": "21.92",
+      "label": "sadness"
+    },
+    "videoURL": "rT4QqvvNgeM",
+    "nickname": "kjubig"
+  },
+  {
+    "0": {
+      "startTime": "6.30",
+      "endTime": "8.09",
+      "label": "fear"
+    },
+    "videoURL": "uQ-hlcux66s",
+    "nickname": "kjubig"
+  }
+]
