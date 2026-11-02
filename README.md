@@ -1,12 +1,14 @@
 # ad-emotion-recognition
 
-Moja część zadania 1 z Informatyki afektywnej: emocje w reklamach z YouTube. Indeks: **193178**.
+Projekt zespołowy z Informatyki afektywnej poświęcony rozpoznawaniu emocji w krótkich fragmentach reklam wideo z YouTube.
+Obejmuje sześć kategorii: radość, smutek, złość, strach, wstręt i zaskoczenie.
 
-Gotowe: **60 klipów MP4, po 10 każdej z sześciu emocji**.
+Projekt prowadzi przez cały proces pracy z danymi: zebranie i przygotowanie klipów, niezależną anotację przez inny zespół,
+analizę zgodności ocen oraz budowę prostego klasyfikatora. Dalsza część obejmuje analizę błędów modelu,
+demonstrację jego działania na nowych przykładach i prezentację wyników.
 
-Do oddania:
+Obecnie repozytorium zawiera materiały do pierwszego etapu — przygotowania zbioru danych. Kolejne etapy będą rozwijane w ramach projektu.
 
-- [193178_affectube.json](outputs/193178_affectube.json)
-- [193178_klipy.zip](outputs/193178_klipy.zip)
-
-[Opis zadania 1](docs/zadanie_1.md). Oryginalne eksporty są w `data/annotations/`, a lokalne wycinki w `data/clips/`.
+- `data/` — oryginalne anotacje i lokalne klipy wideo.
+- `outputs/` — przygotowane zbiory anotacji JSON i archiwa klipów MP4.
+- [`docs/zadanie_1.md`](docs/zadanie_1.md) — wymagania pierwszego zadania.
