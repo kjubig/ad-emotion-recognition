@@ -1,0 +1,398 @@
+[
+  {
+    "0": {
+      "startTime": "2.00",
+      "endTime": "4.40",
+      "label": "disgust"
+    },
+    "videoURL": "10vJjINzgbI",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "6.99",
+      "endTime": "8.20",
+      "label": "anger"
+    },
+    "1": {
+      "startTime": "12.98",
+      "endTime": "15.23",
+      "label": "disgust"
+    },
+    "2": {
+      "startTime": "15.27",
+      "endTime": "17.00",
+      "label": "fear"
+    },
+    "videoURL": "1x5euZp_FWc",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "28.76",
+      "endTime": "30.13",
+      "label": "sadness"
+    },
+    "videoURL": "6e59rtNCS5E",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "16.71",
+      "endTime": "18.65",
+      "label": "happiness"
+    },
+    "1": {
+      "startTime": "31.09",
+      "endTime": "32.52",
+      "label": "surprise"
+    },
+    "2": {
+      "startTime": "38.32",
+      "endTime": "39.64",
+      "label": "surprise"
+    },
+    "3": {
+      "startTime": "43.14",
+      "endTime": "46.38",
+      "label": "anger"
+    },
+    "4": {
+      "startTime": "47.06",
+      "endTime": "48.38",
+      "label": "anger"
+    },
+    "videoURL": "711Cq8_E0oI",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "1.60",
+      "endTime": "2.75",
+      "label": "surprise"
+    },
+    "1": {
+      "startTime": "7.35",
+      "endTime": "9.11",
+      "label": "anger"
+    },
+    "videoURL": "9pVeOIh-oTM",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "23.20",
+      "endTime": "24.80",
+      "label": "anger"
+    },
+    "1": {
+      "startTime": "52.73",
+      "endTime": "56.57",
+      "label": "sadness"
+    },
+    "2": {
+      "startTime": "56.84",
+      "endTime": "60.02",
+      "label": "happiness"
+    },
+    "videoURL": "BN4xXOnmnuE",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "15.87",
+      "endTime": "17.80",
+      "label": "surprise"
+    },
+    "1": {
+      "startTime": "63.94",
+      "endTime": "66.74",
+      "label": "happiness"
+    },
+    "videoURL": "Cqa3LPqChKI",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "0.00",
+      "endTime": "1.57",
+      "label": "fear"
+    },
+    "1": {
+      "startTime": "3.04",
+      "endTime": "4.71",
+      "label": "surprise"
+    },
+    "2": {
+      "startTime": "17.59",
+      "endTime": "19.43",
+      "label": "surprise"
+    },
+    "videoURL": "EOVt66XVWVM",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "4.36",
+      "endTime": "5.95",
+      "label": "disgust"
+    },
+    "1": {
+      "startTime": "5.99",
+      "endTime": "7.30",
+      "label": "disgust"
+    },
+    "2": {
+      "startTime": "10.20",
+      "endTime": "11.40",
+      "label": "disgust"
+    },
+    "videoURL": "LSo6DZcBJcI",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "15.10",
+      "endTime": "16.10",
+      "label": "fear"
+    },
+    "videoURL": "Lc9_H7mZxCI",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "2.86",
+      "endTime": "4.50",
+      "label": "happiness"
+    },
+    "1": {
+      "startTime": "4.54",
+      "endTime": "5.93",
+      "label": "surprise"
+    },
+    "videoURL": "NnByE6cXkkg",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "8.70",
+      "endTime": "10.99",
+      "label": "surprise"
+    },
+    "1": {
+      "startTime": "14.00",
+      "endTime": "15.50",
+      "label": "anger"
+    },
+    "2": {
+      "startTime": "20.93",
+      "endTime": "24.70",
+      "label": "fear"
+    },
+    "videoURL": "S0yipOuiQd8",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "9.18",
+      "endTime": "11.15",
+      "label": "disgust"
+    },
+    "videoURL": "SYTJTqcUAwg",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "1.45",
+      "endTime": "3.96",
+      "label": "disgust"
+    },
+    "1": {
+      "startTime": "4.03",
+      "endTime": "6.13",
+      "label": "disgust"
+    },
+    "2": {
+      "startTime": "10.32",
+      "endTime": "11.99",
+      "label": "disgust"
+    },
+    "3": {
+      "startTime": "17.88",
+      "endTime": "19.00",
+      "label": "disgust"
+    },
+    "videoURL": "TTzV9BrIvC4",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "5.98",
+      "endTime": "8.03",
+      "label": "anger"
+    },
+    "videoURL": "VFJXxioV2vw",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "49.92",
+      "endTime": "51.70",
+      "label": "sadness"
+    },
+    "1": {
+      "startTime": "59.51",
+      "endTime": "62.76",
+      "label": "happiness"
+    },
+    "2": {
+      "startTime": "75.29",
+      "endTime": "77.62",
+      "label": "sadness"
+    },
+    "videoURL": "Z7FoQM56cZY",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "5.03",
+      "endTime": "6.09",
+      "label": "anger"
+    },
+    "videoURL": "d8Vij6L9YOk",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "42.66",
+      "endTime": "44.05",
+      "label": "anger"
+    },
+    "1": {
+      "startTime": "44.36",
+      "endTime": "45.78",
+      "label": "fear"
+    },
+    "2": {
+      "startTime": "47.04",
+      "endTime": "49.79",
+      "label": "happiness"
+    },
+    "videoURL": "g7_slK24lXU",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "0.00",
+      "endTime": "1.92",
+      "label": "sadness"
+    },
+    "1": {
+      "startTime": "6.30",
+      "endTime": "8.50",
+      "label": "sadness"
+    },
+    "2": {
+      "startTime": "22.36",
+      "endTime": "23.44",
+      "label": "sadness"
+    },
+    "videoURL": "o3hHxNsIHEY",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "9.60",
+      "endTime": "10.90",
+      "label": "sadness"
+    },
+    "1": {
+      "startTime": "22.12",
+      "endTime": "24.38",
+      "label": "sadness"
+    },
+    "2": {
+      "startTime": "43.79",
+      "endTime": "45.00",
+      "label": "happiness"
+    },
+    "3": {
+      "startTime": "48.68",
+      "endTime": "49.68",
+      "label": "fear"
+    },
+    "4": {
+      "startTime": "56.68",
+      "endTime": "57.68",
+      "label": "fear"
+    },
+    "videoURL": "oyJvd876UIc",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "12.02",
+      "endTime": "13.05",
+      "label": "anger"
+    },
+    "1": {
+      "startTime": "14.76",
+      "endTime": "16.20",
+      "label": "surprise"
+    },
+    "2": {
+      "startTime": "34.10",
+      "endTime": "36.07",
+      "label": "happiness"
+    },
+    "3": {
+      "startTime": "43.18",
+      "endTime": "45.00",
+      "label": "fear"
+    },
+    "videoURL": "qIVDxL2lgN4",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "28.86",
+      "endTime": "29.95",
+      "label": "fear"
+    },
+    "1": {
+      "startTime": "30.67",
+      "endTime": "31.74",
+      "label": "fear"
+    },
+    "2": {
+      "startTime": "85.82",
+      "endTime": "86.86",
+      "label": "surprise"
+    },
+    "videoURL": "qW1TZhkLfKg",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "87.85",
+      "endTime": "90.58",
+      "label": "happiness"
+    },
+    "1": {
+      "startTime": "92.03",
+      "endTime": "96.16",
+      "label": "happiness"
+    },
+    "videoURL": "rBaYEAHRlnI",
+    "nickname": "MartynaA"
+  },
+  {
+    "0": {
+      "startTime": "10.90",
+      "endTime": "13.39",
+      "label": "sadness"
+    },
+    "videoURL": "tU5Rnd-HM6A",
+    "nickname": "MartynaA"
+  }
+]

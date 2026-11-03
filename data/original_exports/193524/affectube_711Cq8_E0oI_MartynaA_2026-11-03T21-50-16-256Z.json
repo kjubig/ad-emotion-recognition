@@ -1,0 +1,29 @@
+{
+  "0": {
+    "startTime": "16.71",
+    "endTime": "18.65",
+    "label": "happiness"
+  },
+  "1": {
+    "startTime": "31.09",
+    "endTime": "32.52",
+    "label": "surprise"
+  },
+  "2": {
+    "startTime": "38.32",
+    "endTime": "39.64",
+    "label": "surprise"
+  },
+  "3": {
+    "startTime": "43.14",
+    "endTime": "46.38",
+    "label": "anger"
+  },
+  "4": {
+    "startTime": "47.06",
+    "endTime": "48.38",
+    "label": "anger"
+  },
+  "videoURL": "711Cq8_E0oI",
+  "nickname": "MartynaA"
+}

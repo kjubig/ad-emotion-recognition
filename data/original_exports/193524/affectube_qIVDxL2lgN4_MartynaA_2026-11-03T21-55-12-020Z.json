@@ -1,0 +1,24 @@
+{
+  "0": {
+    "startTime": "12.02",
+    "endTime": "13.05",
+    "label": "anger"
+  },
+  "1": {
+    "startTime": "14.76",
+    "endTime": "16.20",
+    "label": "surprise"
+  },
+  "2": {
+    "startTime": "34.10",
+    "endTime": "36.07",
+    "label": "happiness"
+  },
+  "3": {
+    "startTime": "43.18",
+    "endTime": "45.00",
+    "label": "fear"
+  },
+  "videoURL": "qIVDxL2lgN4",
+  "nickname": "MartynaA"
+}

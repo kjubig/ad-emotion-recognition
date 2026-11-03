@@ -1,0 +1,19 @@
+{
+  "0": {
+    "startTime": "42.66",
+    "endTime": "44.05",
+    "label": "anger"
+  },
+  "1": {
+    "startTime": "44.36",
+    "endTime": "45.78",
+    "label": "fear"
+  },
+  "2": {
+    "startTime": "47.04",
+    "endTime": "49.79",
+    "label": "happiness"
+  },
+  "videoURL": "g7_slK24lXU",
+  "nickname": "MartynaA"
+}
