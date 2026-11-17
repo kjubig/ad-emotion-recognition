@@ -1,18 +1,21 @@
 # ad-emotion-recognition
 
 Projekt zespołowy z Informatyki afektywnej poświęcony rozpoznawaniu emocji w krótkich fragmentach reklam wideo z YouTube.
-Obejmuje sześć kategorii: radość, smutek, złość, strach, wstręt i zaskoczenie.
+W Zadaniu 1 wybrano klipy dla sześciu emocji: radości, smutku, złości, strachu, wstrętu i zaskoczenia.
+W Zadaniu 2 do listy etykiet dodano `neutral`.
 
 Projekt prowadzi przez cały proces pracy z danymi: zebranie i przygotowanie klipów, niezależną anotację przez inny zespół,
 analizę zgodności ocen oraz budowę prostego klasyfikatora. Dalsza część obejmuje analizę błędów modelu,
 demonstrację jego działania na nowych przykładach i prezentację wyników.
 
-Obecnie repozytorium zawiera materiały do pierwszego etapu — przygotowania zbioru danych. Kolejne etapy będą rozwijane w ramach projektu.
+## Zadanie 1 – przygotowanie klipów zespołu C
 
-- `data/clips/` — wspólny zbiór wybranych klipów MP4 do dalszej pracy.
-- `data/annotations/` — końcowe anotacje, osobny plik `<indeks>.json` dla każdej osoby.
-- `data/original_exports/` — oryginalne eksporty AffecTube sprzed selekcji.
-- `done/` — pliki przygotowane do oddania prowadzącym.
-- [`docs/zadanie_1.md`](docs/zadanie_1.md) — wymagania pierwszego zadania.
+- `data/clips/` zawiera klipy MP4 wybrane przez zespół.
+- `data/annotations/` zawiera końcowe anotacje, po jednym pliku JSON na osobę.
+- `data/original_exports/` zawiera pierwotne eksporty AffecTube.
+- `done/` zawiera paczki do oddania w Zadaniu 1.
+- [Instrukcja Zadania 1](docs/zadanie_1.md) opisuje wymagania i format plików.
 
-Każda osoba dodaje swoje wybrane klipy i anotacje do `data/`; gotowe paczki do oddania trafiają do `done/`.
+## Zadanie 2 – etykietowanie klipów zespołu B
+
+- [Opis Zadania 2](docs/zadanie_2.md) wyjaśnia strukturę danych i podaje pliki wymagane do oddania na kursie.

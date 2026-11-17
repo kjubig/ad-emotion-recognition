@@ -4,6 +4,10 @@
 *.mkv
 *.part
 !data/clips/*.mp4
+
+# Lokalne materiały zespołu C do Zadania 2.
+/C/
+
 .venv/
 __pycache__/
 *.pyc
